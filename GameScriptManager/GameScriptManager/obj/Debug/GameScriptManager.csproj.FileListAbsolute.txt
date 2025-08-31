@@ -1,0 +1,11 @@
+C:\Users\crist\source\repos\GameScriptManager\GameScriptManager\bin\Debug\GameScriptManager.exe.config
+C:\Users\crist\source\repos\GameScriptManager\GameScriptManager\bin\Debug\GameScriptManager.exe
+C:\Users\crist\source\repos\GameScriptManager\GameScriptManager\bin\Debug\GameScriptManager.pdb
+C:\Users\crist\source\repos\GameScriptManager\GameScriptManager\obj\Debug\GameScriptManager.csproj.AssemblyReference.cache
+C:\Users\crist\source\repos\GameScriptManager\GameScriptManager\obj\Debug\GameScriptManager.Form1.resources
+C:\Users\crist\source\repos\GameScriptManager\GameScriptManager\obj\Debug\GameScriptManager.Properties.Resources.resources
+C:\Users\crist\source\repos\GameScriptManager\GameScriptManager\obj\Debug\GameScriptManager.csproj.GenerateResource.cache
+C:\Users\crist\source\repos\GameScriptManager\GameScriptManager\obj\Debug\GameScriptManager.csproj.CoreCompileInputs.cache
+C:\Users\crist\source\repos\GameScriptManager\GameScriptManager\obj\Debug\GameScriptManager.exe
+C:\Users\crist\source\repos\GameScriptManager\GameScriptManager\obj\Debug\GameScriptManager.pdb
+C:\Users\crist\source\repos\GameScriptManager\GameScriptManager\obj\Debug\GameScriptManager.exe.config
